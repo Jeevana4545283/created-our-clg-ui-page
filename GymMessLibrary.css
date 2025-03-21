@@ -1,0 +1,17 @@
+/* GymMessLibrary.css */
+.facilities-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .facility {
+    background: #f4f4f4;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
+  
+  .facility h2 {
+    color: #004080;
+  }
+  

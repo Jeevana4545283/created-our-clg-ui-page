@@ -1,0 +1,19 @@
+.links-container {
+    display: flex;
+    flex-direction: column; /* Stack links vertically */
+    gap: 10px; /* Space between links */
+  }
+  
+  .links-container a {
+    display: block;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #004080;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  .links-container a:hover {
+    color: #ffcc00;
+  }
+  
